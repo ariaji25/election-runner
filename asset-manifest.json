@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e22e5544.chunk.css",
+    "main.js": "/static/js/main.1c383661.chunk.js",
+    "main.js.map": "/static/js/main.1c383661.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e03aaa3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e03aaa3.js.map",
+    "static/css/2.7a917bdd.chunk.css": "/static/css/2.7a917bdd.chunk.css",
+    "static/js/2.2814a5f7.chunk.js": "/static/js/2.2814a5f7.chunk.js",
+    "static/js/2.2814a5f7.chunk.js.map": "/static/js/2.2814a5f7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.03f45bed8bed51403a246390b33d51df.js": "/precache-manifest.03f45bed8bed51403a246390b33d51df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7a917bdd.chunk.css.map": "/static/css/2.7a917bdd.chunk.css.map",
+    "static/css/main.e22e5544.chunk.css.map": "/static/css/main.e22e5544.chunk.css.map",
+    "static/js/2.2814a5f7.chunk.js.LICENSE.txt": "/static/js/2.2814a5f7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Metropolis-Regular.f7b5e589.otf",
+    "static/media/dukungcalonmu_icon.png": "/static/media/dukungcalonmu_icon.6ff66a06.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/report.svg": "/static/media/report.ecdcfec4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e03aaa3.js",
+    "static/css/2.7a917bdd.chunk.css",
+    "static/js/2.2814a5f7.chunk.js",
+    "static/css/main.e22e5544.chunk.css",
+    "static/js/main.1c383661.chunk.js"
+  ]
+}
